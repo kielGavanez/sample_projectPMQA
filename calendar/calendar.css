@@ -12,3 +12,14 @@ th, td {
 th {
     background-color: #f2f2f2;
 }
+/* body {
+    border: 1px solid black;
+    
+} */
+.calendar-container {
+    width: 300px;
+    height: 300px;
+    overflow: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
